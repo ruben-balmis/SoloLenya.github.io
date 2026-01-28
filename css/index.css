@@ -1,0 +1,13 @@
+/** BGIMG **/
+main{
+    background-image: url(../img/bgindex.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 65rem;
+    align-items: center;  
+    -webkit-filter: blur(3px);
+   -moz-filter: blur(3px);
+   -o-filter: blur(3px);
+   -ms-filter: blur(3px);
+   filter: blur(3px);
+}
