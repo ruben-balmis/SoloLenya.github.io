@@ -1,0 +1,29 @@
+main{
+    display:inline-block;
+}
+.menu{
+    display:table;
+}
+.platos{
+    display:table-cell;
+}
+.platos img{
+    margin: 0.8rem;
+    width: 35rem;
+    height:35rem ;
+    transition: transform .5s ;
+}
+.platos img:hover
+{
+    transform: scale(1.5)
+}
+.carta{
+    color:white;
+    display: table-cell;
+}
+.carta a{
+    color:white;
+}
+.carta a:hover{
+    color:#F5A733;
+}
